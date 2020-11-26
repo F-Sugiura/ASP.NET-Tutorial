@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qF/Y4/uiLF5kWM/VFNfUUMXXsCSka7DoaU+mxwHHyzIsRk1ZpvWpKWyVNjjCSoNxoWd+pEM7+5rX74TCpBtfCQ==",
+  "success": true,
+  "projectFilePath": "/Users/sugiurafumiya/MvcMovie/MvcMovie.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "キャッシュ ファイルの読み取りの問題 /Users/sugiurafumiya/MvcMovie/obj/project.nuget.cache : Unexpected character encountered while parsing value: p. Path 'version', line 2, position 13."
+    }
+  ]
+}
