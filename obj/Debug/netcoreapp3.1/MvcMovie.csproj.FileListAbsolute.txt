@@ -36,3 +36,10 @@
 /Users/sugiurafumiya/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.csproj.CopyComplete
 /Users/sugiurafumiya/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/HelloWorld/Index.cshtml.g.cs
 /Users/sugiurafumiya/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/HelloWorld/HelloWorld.cshtml.g.cs
+/Users/sugiurafumiya/Desktop/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.AssemblyInfoInputs.cache
+/Users/sugiurafumiya/Desktop/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.AssemblyInfo.cs
+/Users/sugiurafumiya/Desktop/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/sugiurafumiya/Desktop/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+/Users/sugiurafumiya/Desktop/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.RazorAssemblyInfo.cache
+/Users/sugiurafumiya/Desktop/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.RazorAssemblyInfo.cs
+/Users/sugiurafumiya/Desktop/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.csprojAssemblyReference.cache
